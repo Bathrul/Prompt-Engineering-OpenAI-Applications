@@ -20,6 +20,5 @@ Prompt engineering plays a critical role in controlling the behavior and output 
 Optimized prompts demonstrated improved response accuracy, better contextual understanding, and reduced irrelevant outputs compared to baseline prompts.
 
 ## Author
-Your Name  
 GitHub: https://github.com/Bathrul
 
